@@ -1,0 +1,40 @@
+body{
+  background-image: url("https://www.publicdomainpictures.net/pictures/270000/nahled/bright-green-background-153669758100A.jpg");
+  font-family: 'Cormorant Upright', serif;
+  text-align: center;
+}
+
+.container {
+  background-image: url("https://images.ua.prom.st/618863112_vafelnaya-i-saharnaya.jpg");
+}
+
+#name{
+  padding-top: 15px;
+  font-family: 'Monoton', cursive;
+  color: white;
+}
+.paragraph{
+  font-family: 'Faster One', cursive;
+  background-color: lightgreen;
+  margin-bottom: 10px;
+  font: 35px;
+  color:darkgreen;
+}
+
+.click{
+  width:80px;
+  height:80px;
+}
+
+.start {
+  background-color: lightgreen;
+  color: whitesmoke;
+  font: 25px;
+  margin-bottom: 50px;
+}
+.addition{
+  font-size: 30px;
+}
+.total{
+  font-size: 30px;
+}
